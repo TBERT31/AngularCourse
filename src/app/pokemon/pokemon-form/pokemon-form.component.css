@@ -1,0 +1,8 @@
+.ng-vald[required]{
+    border-left: 5px solid #42A948;
+}
+
+.ng-invald:not(form){
+    border-left: 5px solid #A94442;
+}
+
